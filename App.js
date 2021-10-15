@@ -9,7 +9,7 @@ const navigator = createStackNavigator(
     Screen: SecondScreen
   },
   {
-    initialRouteName: "Screen",
+    initialRouteName: "Home",
     defaultNavigationOptions: {
       title: "App",
     },
