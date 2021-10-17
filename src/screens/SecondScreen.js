@@ -15,7 +15,7 @@ const SecondScreen = () => {
             <TextInput placeholder="Search Destination" style={{
                 width: '70%',
                 flex: 0.1,
-                margin: 10,
+                margin: 11,
                 border: 'black 1px solid',
                 borderRadius: 20,
                 alignItems: 'center',
