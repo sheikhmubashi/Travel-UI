@@ -34,7 +34,7 @@ const SecondScreen = () => {
                 <HomeImage />
 
             </View>
-            <Text style={{ flex: 0.1, fontSize: 40 }}>Populer</Text>
+            <Text style={{ flex: 0.1, fontSize: 41 }}>Populer</Text>
 
             <View style={{ margin: 10, justifyContent: 'center', alignItems: 'center', flexDirection: 'row', flex: 0.3 }}>
                 <Image
